@@ -1,4 +1,5 @@
 Server Performance Monitoring Script
+
 This script provides a comprehensive overview of your Linux server's performance metrics, including CPU, memory, and disk usage, as well as process and security information.
 
 Features
@@ -35,8 +36,9 @@ Installation
 Clone or download the script:
 
 bash
-git clone https://github.com/Chipasito/LinuxRoadmap.git
-Make the script executable:
+  git clone https://github.com/Chipasito/LinuxRoadmap.git
+  Make the script executable:
+
 
 bash
 chmod +x PerfStats.sh
